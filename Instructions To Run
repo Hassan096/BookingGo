@@ -1,0 +1,3 @@
+This project was done in Eclipse (Neon.3 Release (4.6.3)). To run JSON parser, JSONSimple JARs need to be added to the project.
+The first two arguments are that of pickup and drop-off location and the third argument is of the number of Passengers.
+The result is displayed as Parsed JSON taking into account the number of passengers and the cheapest option per supplier per taxi type.
